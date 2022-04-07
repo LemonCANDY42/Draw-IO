@@ -1,58 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T09:20:16.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="sGjs-6krip8TLlbt0WvF" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T09:43:56.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="_5vf1npCQ2acmmFcyzPd" version="17.4.0" type="github">
   <diagram id="1DsjOCc9WdNF4IgYtuMM" name="第 1 页">
-    <mxGraphModel dx="2866" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2708" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-30" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;fontSize=34;strokeColor=#012B33;strokeWidth=2;fillColor=#FFFF99;opacity=50;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="500" y="112.5" width="1040" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/OPIXray-author/OPIXray/raw/master/images/framework-o.png;imageBackground=none;sketch=0;container=0;labelBorderColor=none;imageBorder=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="300" width="520" height="155" as="geometry" />
+        </mxCell>
         <mxCell id="InRAxy0Bm6hg3mGzkT5f-20" value="Airport/High-speed railway station/ Subway station/Train station/Customs" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;opacity=50;rounded=1;fillColor=#05C5FF;strokeColor=#012B33;glass=0;strokeWidth=2;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="170" width="240" height="770" as="geometry" />
+          <mxGeometry x="-90" y="170" width="470" height="770" as="geometry" />
         </mxCell>
         <mxCell id="InRAxy0Bm6hg3mGzkT5f-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20220118/ourlarge/pngtree-cartoon-hand-drawn-2-5d-security-check-machine-vector-design-elements-png-image_4201584.png;" vertex="1" parent="1">
           <mxGeometry x="20" y="240" width="150" height="150" as="geometry" />
         </mxCell>
-        <UserObject label="" link="https://media-cdn.seeedstudio.com/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/0/3/03_16_2.png" id="InRAxy0Bm6hg3mGzkT5f-3">
-          <mxCell style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-1" target="InRAxy0Bm6hg3mGzkT5f-13">
-            <mxGeometry x="1" y="161" width="50" height="50" relative="1" as="geometry">
-              <mxPoint x="260" y="320" as="sourcePoint" />
-              <mxPoint x="340" y="470" as="targetPoint" />
-              <mxPoint x="32" y="39" as="offset" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <mxCell id="InRAxy0Bm6hg3mGzkT5f-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-4" target="InRAxy0Bm6hg3mGzkT5f-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/OPIXray-author/OPIXray/raw/master/images/samples.png;imageBorder=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="606" y="160" width="265.15" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="InRAxy0Bm6hg3mGzkT5f-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/OPIXray-author/OPIXray/raw/master/images/samples.png;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="50" width="265.15" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="InRAxy0Bm6hg3mGzkT5f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-5" target="InRAxy0Bm6hg3mGzkT5f-4">
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-5" target="InRAxy0Bm6hg3mGzkT5f-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="InRAxy0Bm6hg3mGzkT5f-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/OPIXray-author/OPIXray/raw/master/images/framework-o.png;" vertex="1" parent="1">
-          <mxGeometry x="340" y="140" width="660" height="196.73" as="geometry" />
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/OPIXray-author/OPIXray/raw/master/images/framework-o.png;imageBackground=none;sketch=0;container=0;labelBorderColor=none;imageBorder=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="970" y="290" width="520" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="InRAxy0Bm6hg3mGzkT5f-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.jjscan.com/wp-content/uploads/2021/07/Ai-detect.jpg;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="280" width="550.97" height="366.62" as="geometry" />
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/OPIXray-author/OPIXray/raw/master/images/framework-o.png;imageBorder=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="280" width="520" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="InRAxy0Bm6hg3mGzkT5f-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://developer.nvidia.com/sites/default/files/nvidia-triton-inference-server-simplify-ai-development.jpg;" vertex="1" parent="1">
-          <mxGeometry x="490" y="382.94" width="190" height="107.06" as="geometry" />
-        </mxCell>
-        <mxCell id="InRAxy0Bm6hg3mGzkT5f-11" value="&lt;h1 class=&quot;hdng--l&quot; style=&quot;box-sizing: border-box; margin: 16px 0px; font-weight: 300; line-height: 1em; font-size: 16px; padding: 0px; border: 0px; font-style: normal; font-stretch: inherit; font-family: dinwebpro, &amp;quot;helvetica neue&amp;quot;, helvetica, roboto, &amp;quot;droid sans&amp;quot;, sans-serif; vertical-align: baseline; text-transform: uppercase; letter-spacing: -0.02em; color: rgb(118, 185, 0); text-indent: 0px; word-spacing: 0px;&quot;&gt;NVIDIA TRITON INFERENCE SERVER&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;align=center;opacity=0;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="343.5" y="490" width="212.5" height="22.94" as="geometry" />
-        </mxCell>
-        <mxCell id="InRAxy0Bm6hg3mGzkT5f-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://media-cdn.seeedstudio.com/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/0/3/03_16_2.png;" vertex="1" parent="1">
-          <mxGeometry x="430" y="530" width="196" height="147" as="geometry" />
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=34;fontColor=#49BA07;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.447;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-10" target="InRAxy0Bm6hg3mGzkT5f-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="InRAxy0Bm6hg3mGzkT5f-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/png-vector/20220118/ourlarge/pngtree-cartoon-hand-drawn-2-5d-security-check-machine-vector-design-elements-png-image_4201584.png;" vertex="1" parent="1">
           <mxGeometry x="20" y="400" width="150" height="150" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://media-cdn.seeedstudio.com/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/0/3/03_16_2.png" id="InRAxy0Bm6hg3mGzkT5f-19">
-          <mxCell style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-18" target="InRAxy0Bm6hg3mGzkT5f-13">
+          <mxCell style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-18" target="InRAxy0Bm6hg3mGzkT5f-27">
             <mxGeometry x="1" y="161" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="280" y="480" as="sourcePoint" />
-              <mxPoint x="470" y="713.5" as="targetPoint" />
+              <mxPoint x="370" y="530" as="targetPoint" />
               <mxPoint x="32" y="39" as="offset" />
             </mxGeometry>
           </mxCell>
@@ -61,7 +51,7 @@
           <mxGeometry x="20" y="560" width="150" height="150" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://media-cdn.seeedstudio.com/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/0/3/03_16_2.png" id="InRAxy0Bm6hg3mGzkT5f-22">
-          <mxCell style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-21" target="InRAxy0Bm6hg3mGzkT5f-13">
+          <mxCell style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-21" target="InRAxy0Bm6hg3mGzkT5f-27">
             <mxGeometry x="1" y="161" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="280" y="640" as="sourcePoint" />
               <mxPoint x="480" y="793.5" as="targetPoint" />
@@ -76,7 +66,7 @@
           <mxGeometry x="20" y="720" width="150" height="150" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://media-cdn.seeedstudio.com/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/0/3/03_16_2.png" id="InRAxy0Bm6hg3mGzkT5f-25">
-          <mxCell style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-24" target="InRAxy0Bm6hg3mGzkT5f-13">
+          <mxCell style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-24" target="InRAxy0Bm6hg3mGzkT5f-27">
             <mxGeometry x="1" y="161" width="50" height="50" relative="1" as="geometry">
               <mxPoint x="290" y="696.5" as="sourcePoint" />
               <mxPoint x="490" y="850" as="targetPoint" />
@@ -84,6 +74,80 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-1" target="InRAxy0Bm6hg3mGzkT5f-27">
+          <mxGeometry x="1" y="161" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="315" as="sourcePoint" />
+            <mxPoint x="560" y="550" as="targetPoint" />
+            <mxPoint x="32" y="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.jjscan.com/wp-content/uploads/2021/07/Ai-detect.jpg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="135.26" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/OPIXray-author/OPIXray/raw/master/images/framework-o.png;imageBackground=none;sketch=0;container=0;labelBorderColor=none;imageBorder=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="950" y="270" width="520" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/OPIXray-author/OPIXray/raw/master/images/samples.png;imageBorder=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="593" y="150" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/OPIXray-author/OPIXray/raw/master/images/samples.png;imageBorder=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="581" y="140" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/OPIXray-author/OPIXray/raw/master/images/samples.png;imageBorder=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="129.99999999999997" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.jjscan.com/wp-content/uploads/2021/07/Ai-detect.jpg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="590" width="135.26" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.jjscan.com/wp-content/uploads/2021/07/Ai-detect.jpg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="747.06" width="135.26" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="390" width="300" height="447.05999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-27" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;fontSize=34;strokeColor=#012B33;strokeWidth=2;fillColor=#E6E6E6;opacity=50;arcSize=18;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-46">
+          <mxGeometry width="300" height="447.06" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://developer.nvidia.com/sites/default/files/nvidia-triton-inference-server-simplify-ai-development.jpg;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-46">
+          <mxGeometry x="55" y="38.52999999999997" width="190" height="107.06" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-11" value="&lt;h1 class=&quot;hdng--l&quot; style=&quot;box-sizing: border-box; margin: 16px 0px; font-weight: 300; line-height: 1em; font-size: 16px; padding: 0px; border: 0px; font-style: normal; font-stretch: inherit; font-family: dinwebpro, &amp;quot;helvetica neue&amp;quot;, helvetica, roboto, &amp;quot;droid sans&amp;quot;, sans-serif; vertical-align: baseline; text-transform: uppercase; letter-spacing: -0.02em; color: rgb(118, 185, 0); text-indent: 0px; word-spacing: 0px;&quot;&gt;NVIDIA TRITON INFERENCE SERVER&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;align=center;opacity=0;fontSize=16;verticalAlign=middle;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-46">
+          <mxGeometry x="43.75" y="158.52999999999997" width="212.5" height="22.94" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://media-cdn.seeedstudio.com/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/0/3/03_16_2.png;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-46">
+          <mxGeometry x="55" y="218.52999999999997" width="196" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-48" value="" style="endArrow=classic;html=1;rounded=0;fontSize=34;fontColor=#49BA07;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="705" y="128" as="sourcePoint" />
+            <mxPoint x="268" y="279" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="39" />
+              <mxPoint x="270" y="39" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-51" value="" style="endArrow=none;html=1;rounded=0;fontSize=34;fontColor=#49BA07;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-38" target="InRAxy0Bm6hg3mGzkT5f-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="560" as="sourcePoint" />
+            <mxPoint x="370" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-54" value="" style="endArrow=none;html=1;rounded=0;fontSize=34;fontColor=#49BA07;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267.2100000000001" y="587.5" as="sourcePoint" />
+            <mxPoint x="267.2100000000001" y="522.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-55" value="" style="endArrow=none;html=1;rounded=0;fontSize=34;fontColor=#49BA07;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267.2100000000001" y="745" as="sourcePoint" />
+            <mxPoint x="267.2100000000001" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.jjscan.com/wp-content/uploads/2021/07/Ai-detect.jpg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="435" width="135.26" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
