@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T09:47:09.770Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="4HIgiv3w8JPBas1GdiW9" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T10:17:45.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="-DySLkEOqGFmdPMpfSt6" version="17.4.0" type="github">
   <diagram id="1DsjOCc9WdNF4IgYtuMM" name="第 1 页">
-    <mxGraphModel dx="3271" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2866" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#808080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="InRAxy0Bm6hg3mGzkT5f-30" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;fontSize=34;strokeColor=#012B33;strokeWidth=2;fillColor=#FFFF99;opacity=50;arcSize=18;" vertex="1" parent="1">
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-85" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=21;fontColor=#000000;strokeColor=#FFFFFF;strokeWidth=2;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1139.5" y="560" width="635" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-30" value="&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Inference" style="whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;fontSize=34;strokeColor=#012B33;strokeWidth=2;fillColor=#FFFF99;opacity=50;arcSize=18;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="112.5" width="1040" height="470" as="geometry" />
         </mxCell>
         <mxCell id="InRAxy0Bm6hg3mGzkT5f-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.com/OPIXray-author/OPIXray/raw/master/images/framework-o.png;imageBackground=none;sketch=0;container=0;labelBorderColor=none;imageBorder=default;strokeWidth=2;" vertex="1" parent="1">
@@ -105,19 +108,22 @@
           <mxGeometry x="181" y="747.06" width="135.26" height="90" as="geometry" />
         </mxCell>
         <mxCell id="InRAxy0Bm6hg3mGzkT5f-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="570" y="390" width="300" height="450" as="geometry" />
+          <mxGeometry x="620" y="390" width="370" height="780" as="geometry" />
         </mxCell>
         <mxCell id="InRAxy0Bm6hg3mGzkT5f-27" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;labelBackgroundColor=none;fontSize=34;strokeColor=#012B33;strokeWidth=2;fillColor=#E6E6E6;opacity=50;arcSize=18;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-46">
-          <mxGeometry width="300" height="450.00000000000006" as="geometry" />
-        </mxCell>
-        <mxCell id="InRAxy0Bm6hg3mGzkT5f-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://developer.nvidia.com/sites/default/files/nvidia-triton-inference-server-simplify-ai-development.jpg;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-46">
-          <mxGeometry x="55" y="38.783384780566344" width="178.49953026439408" height="100.57978794792648" as="geometry" />
-        </mxCell>
-        <mxCell id="InRAxy0Bm6hg3mGzkT5f-11" value="&lt;h1 class=&quot;hdng--l&quot; style=&quot;box-sizing: border-box; margin: 16px 0px; font-weight: 300; line-height: 1em; font-size: 16px; padding: 0px; border: 0px; font-style: normal; font-stretch: inherit; font-family: dinwebpro, &amp;quot;helvetica neue&amp;quot;, helvetica, roboto, &amp;quot;droid sans&amp;quot;, sans-serif; vertical-align: baseline; text-transform: uppercase; letter-spacing: -0.02em; color: rgb(118, 185, 0); text-indent: 0px; word-spacing: 0px;&quot;&gt;NVIDIA TRITON INFERENCE SERVER&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;align=center;opacity=0;fontSize=16;verticalAlign=middle;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-46">
-          <mxGeometry x="43.75" y="159.57254059857738" width="212.5" height="23.090860287209775" as="geometry" />
+          <mxGeometry width="370.00000000000006" height="780" as="geometry" />
         </mxCell>
         <mxCell id="InRAxy0Bm6hg3mGzkT5f-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://media-cdn.seeedstudio.com/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/0/3/03_16_2.png;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-46">
-          <mxGeometry x="55" y="219.96711850758288" width="184.13635753590125" height="138.10226815192593" as="geometry" />
+          <mxGeometry x="67.83333333333334" y="381.27633874647694" width="219.77565254284988" height="164.83173940713738" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-72" value="" style="group" vertex="1" connectable="0" parent="InRAxy0Bm6hg3mGzkT5f-46">
+          <mxGeometry x="54.958333333333336" y="156.54453361964832" width="262.0833333333333" height="160.07202791571606" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://developer.nvidia.com/sites/default/files/nvidia-triton-inference-server-simplify-ai-development.jpg;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-72">
+          <mxGeometry x="23.515000000000008" width="213.04782644459937" height="120.04684367978321" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-11" value="&lt;h1 class=&quot;hdng--l&quot; style=&quot;box-sizing: border-box; margin: 16px 0px; font-weight: 300; line-height: 1em; font-size: 16px; padding: 0px; border: 0px; font-style: normal; font-stretch: inherit; font-family: dinwebpro, &amp;quot;helvetica neue&amp;quot;, helvetica, roboto, &amp;quot;droid sans&amp;quot;, sans-serif; vertical-align: baseline; text-transform: uppercase; letter-spacing: -0.02em; color: rgb(118, 185, 0); text-indent: 0px; word-spacing: 0px;&quot;&gt;NVIDIA TRITON INFERENCE SERVER&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;align=center;opacity=0;fontSize=16;verticalAlign=middle;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-72">
+          <mxGeometry y="120.04787008455244" width="262.0833333333333" height="40.024157831163606" as="geometry" />
         </mxCell>
         <mxCell id="InRAxy0Bm6hg3mGzkT5f-48" value="" style="endArrow=classic;html=1;rounded=0;fontSize=34;fontColor=#49BA07;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -152,6 +158,57 @@
         </mxCell>
         <mxCell id="InRAxy0Bm6hg3mGzkT5f-57" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.jjscan.com/wp-content/uploads/2021/07/Ai-detect.jpg;" vertex="1" parent="1">
           <mxGeometry x="181" y="577.06" width="135.26" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1428" y="760" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-64" value="" style="group" vertex="1" connectable="0" parent="InRAxy0Bm6hg3mGzkT5f-71">
+          <mxGeometry y="40" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-62" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=34;fontColor=#49BA07;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#000000;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-64">
+          <mxGeometry width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-63" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=34;fontColor=#49BA07;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-64">
+          <mxGeometry x="50" y="31.059999999999945" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-65" value="" style="group" vertex="1" connectable="0" parent="InRAxy0Bm6hg3mGzkT5f-71">
+          <mxGeometry y="20" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-66" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=34;fontColor=#49BA07;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#000000;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-65">
+          <mxGeometry width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=34;fontColor=#49BA07;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-65">
+          <mxGeometry x="50" y="31.059999999999945" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-68" value="" style="group" vertex="1" connectable="0" parent="InRAxy0Bm6hg3mGzkT5f-71">
+          <mxGeometry width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-69" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=34;fontColor=#49BA07;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#000000;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-68">
+          <mxGeometry width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=34;fontColor=#49BA07;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="InRAxy0Bm6hg3mGzkT5f-68">
+          <mxGeometry x="50" y="31.059999999999945" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-77" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 21px ; line-height: 0.5&quot;&gt;Model Repository&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=34;fontColor=#49BA07;strokeColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="850" width="210" height="42.94" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-79" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/250px-Amazon_Web_Services_Logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="1268" y="674.52" width="63.33" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-80" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed;html=1;bendable=0;rounded=0;fontSize=21;fontColor=#000000;exitX=1.005;exitY=0.396;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="InRAxy0Bm6hg3mGzkT5f-27">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1000" y="690" as="sourcePoint" />
+            <mxPoint x="1140" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-82" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/165px-Microsoft_Azure_Logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="667.06" width="130.62" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="InRAxy0Bm6hg3mGzkT5f-84" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.gstatic.com/devrel-devsite/prod/v8e85f2d232f57b3748940572c2507445fffb413f9b17c36b012cc05efc1a12ea/cloud/images/cloud-logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="675.52" width="187.73" height="32.54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
